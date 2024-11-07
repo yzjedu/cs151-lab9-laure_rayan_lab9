@@ -1,2 +1,1 @@
-# Algorithm Document
-#### PLEASE! PLEASE! PLEASE! THINK before you code...
+
