@@ -18,6 +18,7 @@ def read_file_to_list(filename):
         return data
 
 def main ():
+    print('Welcome! This program reads files of guest names and outputs seating.')
     count = 1
     name_list = []
     while count < 4:
