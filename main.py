@@ -29,7 +29,8 @@ def main ():
     seat = 1
     for name in name_list:
         print('~' * 24)
-        print(f'Table {table}, Seat {seat}, {name}', '~' * 24)
+        print(f'Table {table}, Seat {seat}, {name}', end = '')
+        print('~' * 24)
         seat += 1
         if seat > 5:
             seat = 1
