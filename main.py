@@ -14,8 +14,8 @@
 # Return: name_list, list, represents list of names from the file
 def read_file_to_list(filename):
 
-    #Initialize list
-    data = []
+    #create empty list
+    name_list = []
 
     try:
         # Open the file for reading
@@ -33,7 +33,7 @@ def read_file_to_list(filename):
     except FileNotFoundError:
         # Print an error message and return an empty list
         print("Error reading file")
-        return data
+        return name_list
 
 # Purpose:  main function
 # Parameters: none
