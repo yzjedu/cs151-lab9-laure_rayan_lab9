@@ -1,21 +1,21 @@
-ENCRYPTED:
-# Mzagzxodji Yjxphzio
+ENCRYPTED
+# Reflection Document
 
-* Ymdqz Apgg Ivhz  : Laure Patera
-* Kvmoizm Apgg Ivhz: Rayan Haq
-* Nopyzio DY: 001925466
+* Drive Full Name  : Qfzwj Ufyjwf
+* Partner Full Name: Wfdfs Mfv
+* Student ID: 001925466
 ---------------
-**Objective:**
-We were supposed to create seating cards for guests at a dinner party, and output the number of tables needed. Aside from that, we would get practice using for loops, using input and output with files, storing data in lists, and processing those lists.
+**Tgojhynaj:**
+Bj bjwj xzuutxji yt hwjfyj xjfynsl hfwix ktw lzjxyx fy f inssjw ufwyd, fsi tzyuzy ymj szrgjw tk yfgqjx sjjiji. Fxnij kwtr ymfy, bj btzqi ljy uwfhynhj zxnsl ktw qttux, zxnsl nsuzy fsi tzyuzy bnym knqjx, xytwnsl ifyf ns qnxyx, fsi uwthjxxnsl ymtxj qnxyx.
 ---------------
-**Procedure:**
-First, we read the read me file very carefully to make sure we understood the program, and we started brainstorming ways to solve it. Then, we started working on the algorithm, and decided the plan of action we would take then. Once our algorithm was finished, we started coding and took turns driving. During each step that was added, we tested the code we had to catch any errors or adjustments to be made along the way. Once we coded, w realized that we had to change our algorithm around for it to work, but it was fun to troubleshoot. The key concepts we explored were reading files to lists and then processing those lists with for loops.
+**Uwthjizwj:**
+Knwxy, bj wjfi ymj wjfi rj knqj ajwd hfwjkzqqd yt rfpj xzwj bj zsijwxytti ymj uwtlwfr, fsi bj xyfwyji gwfnsxytwrnsl bfdx yt xtqaj ny. Ymjs, bj xyfwyji btwpnsl ts ymj fqltwnymr, fsi ijhniji ymj uqfs tk fhynts bj btzqi yfpj ymjs. Tshj tzw fqltwnymr bfx knsnxmji, bj xyfwyji htinsl fsi yttp yzwsx iwnansl. Izwnsl jfhm xyju ymfy bfx fiiji, bj yjxyji ymj htij bj mfi yt hfyhm fsd jwwtwx tw fiozxyrjsyx yt gj rfij fqtsl ymj bfd. Tshj bj htiji, b wjfqneji ymfy bj mfi yt hmfslj tzw fqltwnymr fwtzsi ktw ny yt btwp, gzy ny bfx kzs yt ywtzgqjxmtty. Ymj pjd htshjuyx bj jcuqtwji bjwj wjfinsl knqjx yt qnxyx fsi ymjs uwthjxxnsl ymtxj qnxyx bnym ktw qttux.
 --------------
-**Results:**
-Our results matched what we expected to get, but only after having to tweak our algorithm some and look at the formatting of the files to see how it would affect our code. We tried using many test cases including inputs that would give us an error, so we could see how the program would react.
+**Wjxzqyx:**
+Tzw wjxzqyx rfyhmji bmfy bj jcujhyji yt ljy, gzy tsqd fkyjw mfansl yt ybjfp tzw fqltwnymr xtrj fsi qttp fy ymj ktwrfyynsl tk ymj knqjx yt xjj mtb ny btzqi fkkjhy tzw htij. Bj ywnji zxnsl rfsd yjxy hfxjx nshqzinsl nsuzyx ymfy btzqi lnaj zx fs jwwtw, xt bj htzqi xjj mtb ymj uwtlwfr btzqi wjfhy.
 -------------
-**Reflection:**
-The main challenge we encountered was with printing our seating cards and making sure the formatting was consistent. In order to solve it, we checked the formatting of the files we were reading, and adjusted our code to account for what had been causing the inconsistencies iin our output. We followed the first three steps of programming by spending time attempting to understand the problem and creating an algorithm before we started coding, and testing our program with many different test cases afterwards. I think I learned what I was supposed to for this lab. It helped me understand working with files much better and gave me practice with for loops. It was great working with Rayan and we worked well together. We set up times outside of class to meet and work on the code and it went very well.
+**Wjkqjhynts:**
+Ymj rfns hmfqqjslj bj jshtzsyjwji bfx bnym uwnsynsl tzw xjfynsl hfwix fsi rfpnsl xzwj ymj ktwrfyynsl bfx htsxnxyjsy. Ns twijw yt xtqaj ny, bj hmjhpji ymj ktwrfyynsl tk ymj knqjx bj bjwj wjfinsl, fsi fiozxyji tzw htij yt fhhtzsy ktw bmfy mfi gjjs hfzxnsl ymj nshtsxnxyjshnjx nns tzw tzyuzy. Bj ktqqtbji ymj knwxy ymwjj xyjux tk uwtlwfrrnsl gd xujsinsl ynrj fyyjruynsl yt zsijwxyfsi ymj uwtgqjr fsi hwjfynsl fs fqltwnymr gjktwj bj xyfwyji htinsl, fsi yjxynsl tzw uwtlwfr bnym rfsd inkkjwjsy yjxy hfxjx fkyjwbfwix. N ymnsp N qjfwsji bmfy N bfx xzuutxji yt ktw ymnx qfg. Ny mjquji rj zsijwxyfsi btwpnsl bnym knqjx rzhm gjyyjw fsi lfaj rj uwfhynhj bnym ktw qttux. Ny bfx lwjfy btwpnsl bnym Wfdfs fsi bj btwpji bjqq ytljymjw. Bj xjy zu ynrjx tzyxnij tk hqfxx yt rjjy fsi btwp ts ymj htij fsi ny bjsy ajwd bjqq.
 ----------------
 
 
